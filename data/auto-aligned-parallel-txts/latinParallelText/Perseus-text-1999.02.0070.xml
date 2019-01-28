@@ -1,0 +1,3019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aligned-text>
+	<language lnum="L1" xml:lang="la"/>
+	<language lnum="L2" xml:lang="en"/>
+		<sentence id="1" document_id="Perseus-text-1999.02.0070:sen=a1">
+			<wds lnum="L1">
+				<w n="1-1">
+					<text>tandem</text>
+					<refs nrefs="1-2"/>
+				</w>
+				<w n="1-2">
+					<text>venit</text>
+					<refs nrefs="1-11"/>
+				</w>
+				<w n="1-3">
+					<text>amor</text>
+					<refs nrefs="1-4 1-5 1-6 1-7 1-8"/>
+				</w>
+				<w n="1-4">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-5">
+					<text>qualem</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-6">
+					<text>texisse</text>
+					<refs nrefs="1-22"/>
+				</w>
+				<w n="1-7">
+					<text>pudori</text>
+					<refs nrefs="1-15"/>
+				</w>
+				<w n="1-8">
+					<text>quam</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-9">
+					<text>nudasse</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-10">
+					<text>alicui</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-11">
+					<text>sit</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-12">
+					<text>mihi</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-13">
+					<text>fama</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-14">
+					<text>magis</text>
+					<refs nrefs="1-20"/>
+				</w>
+				<w n="1-15">
+					<text>.</text>
+					<refs nrefs="1-25"/>
+				</w>
+				<w n="1-16">
+					<text>exorata</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-17">
+					<text>meis</text>
+					<refs nrefs="1-26"/>
+				</w>
+				<w n="1-18">
+					<text>illum</text>
+					<refs nrefs="1-12"/>
+				</w>
+				<w n="1-19">
+					<text>cytherea</text>
+					<refs nrefs="1-35"/>
+				</w>
+				<w n="1-20">
+					<text>camenis</text>
+					<refs nrefs="1-27 1-28"/>
+				</w>
+				<w n="1-21">
+					<text>attulit</text>
+					<refs nrefs="1-36 1-37"/>
+				</w>
+				<w n="1-22">
+					<text>in</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-23">
+					<text>nostrum</text>
+					<refs nrefs="1-39"/>
+				</w>
+				<w n="1-24">
+					<text>deposuitque</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-25">
+					<text>sinum</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-26">
+					<text>.</text>
+					<refs nrefs="1-41"/>
+				</w>
+			</wds>
+			<wds lnum="L2">
+				<w n="1-1">
+					<text>at</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-2">
+					<text>last</text>
+					<refs nrefs="1-1"/>
+				</w>
+				<w n="1-3">
+					<text>the</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-4">
+					<text>love</text>
+					<refs nrefs="1-3"/>
+				</w>
+				<w n="1-5">
+					<text>i</text>
+					<refs nrefs="1-3"/>
+				</w>
+				<w n="1-6">
+					<text>'</text>
+					<refs nrefs="1-3"/>
+				</w>
+				<w n="1-7">
+					<text>ve</text>
+					<refs nrefs="1-3"/>
+				</w>
+				<w n="1-8">
+					<text>waited</text>
+					<refs nrefs="1-3"/>
+				</w>
+				<w n="1-9">
+					<text>for</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-10">
+					<text>has</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-11">
+					<text>come</text>
+					<refs nrefs="1-2"/>
+				</w>
+				<w n="1-12">
+					<text>.</text>
+					<refs nrefs="1-18"/>
+				</w>
+				<w n="1-13">
+					<text>(</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-14">
+					<text>no</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-15">
+					<text>shame</text>
+					<refs nrefs="1-7"/>
+				</w>
+				<w n="1-16">
+					<text>to</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-17">
+					<text>say</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-18">
+					<text>so</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-19">
+					<text>:</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-20">
+					<text>more</text>
+					<refs nrefs="1-14"/>
+				</w>
+				<w n="1-21">
+					<text>to</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-22">
+					<text>cover</text>
+					<refs nrefs="1-6"/>
+				</w>
+				<w n="1-23">
+					<text>up</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-24">
+					<text>)</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-25">
+					<text>.</text>
+					<refs nrefs="1-15"/>
+				</w>
+				<w n="1-26">
+					<text>my</text>
+					<refs nrefs="1-17"/>
+				</w>
+				<w n="1-27">
+					<text>camenae</text>
+					<refs nrefs="1-20"/>
+				</w>
+				<w n="1-28">
+					<text>called</text>
+					<refs nrefs="1-20"/>
+				</w>
+				<w n="1-29">
+					<text>on</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-30">
+					<text>her</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-31">
+					<text>in</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-32">
+					<text>prayer</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-33">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-34">
+					<text>and</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-35">
+					<text>cytherea</text>
+					<refs nrefs="1-19"/>
+				</w>
+				<w n="1-36">
+					<text>brought</text>
+					<refs nrefs="1-21"/>
+				</w>
+				<w n="1-37">
+					<text>him</text>
+					<refs nrefs="1-21"/>
+				</w>
+				<w n="1-38">
+					<text>to</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-39">
+					<text>my</text>
+					<refs nrefs="1-23"/>
+				</w>
+				<w n="1-40">
+					<text>heart</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="1-41">
+					<text>.</text>
+					<refs nrefs="1-26"/>
+				</w>
+			</wds>
+		</sentence>
+		<sentence id="2" document_id="Perseus-text-1999.02.0070-sen=1">
+			<wds lnum="L1">
+				<w n="2-1">
+					<text>exsolvit</text>
+					<refs nrefs="2-2"/>
+				</w>
+				<w n="2-2">
+					<text>promissa</text>
+					<refs nrefs="2-4"/>
+				</w>
+				<w n="2-3">
+					<text>venus</text>
+					<refs nrefs="2-1"/>
+				</w>
+				<w n="2-4">
+					<text>:</text>
+					<refs nrefs="2-8"/>
+				</w>
+			</wds>
+			<wds lnum="L2">
+				<w n="2-1">
+					<text>venus</text>
+					<refs nrefs="2-3"/>
+				</w>
+				<w n="2-2">
+					<text>kept</text>
+					<refs nrefs="2-1"/>
+				</w>
+				<w n="2-3">
+					<text>her</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="2-4">
+					<text>promise</text>
+					<refs nrefs="2-2"/>
+				</w>
+				<w n="2-5">
+					<text>:</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="2-6">
+					<text>now</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="2-7">
+					<text>she</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="2-8">
+					<text>can</text>
+					<refs nrefs="2-4"/>
+				</w>
+				<w n="2-9">
+					<text>tell</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="2-10">
+					<text>my</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="2-11">
+					<text>tale</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="2-12">
+					<text>of</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="2-13">
+					<text>joy</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="2-14">
+					<text>to</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="2-15">
+					<text>those</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="2-16">
+					<text>who</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="2-17">
+					<text>don</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="2-18">
+					<text>'</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="2-19">
+					<text>t</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="2-20">
+					<text>believe</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="2-21">
+					<text>.</text>
+					<refs nrefs=""/>
+				</w>
+			</wds>
+		</sentence>
+		<sentence id="3" document_id="Perseus-text-1999.02.0070:sen=a2">
+			<wds lnum="L1">
+				<w n="3-1">
+					<text>mea</text>
+					<refs nrefs="3-1"/>
+				</w>
+				<w n="3-2">
+					<text>gaudia</text>
+					<refs nrefs="3-30"/>
+				</w>
+				<w n="3-3">
+					<text>narret</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-4">
+					<text>,</text>
+					<refs nrefs="3-32"/>
+				</w>
+				<w n="3-5">
+					<text>dicetur</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-6">
+					<text>si</text>
+					<refs nrefs="3-34"/>
+				</w>
+				<w n="3-7">
+					<text>quis</text>
+					<refs nrefs="3-13"/>
+				</w>
+				<w n="3-8">
+					<text>non</text>
+					<refs nrefs="3-17"/>
+				</w>
+				<w n="3-9">
+					<text>habuisse</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-10">
+					<text>sua</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-11">
+					<text>.</text>
+					<refs nrefs="3-18"/>
+				</w>
+				<w n="3-12">
+					<text>non</text>
+					<refs nrefs="3-19 3-20"/>
+				</w>
+				<w n="3-13">
+					<text>ego</text>
+					<refs nrefs="3-23"/>
+				</w>
+				<w n="3-14">
+					<text>signatis</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-15">
+					<text>quicquam</text>
+					<refs nrefs="3-10 3-11 3-12"/>
+				</w>
+				<w n="3-16">
+					<text>mandare</text>
+					<refs nrefs="3-5"/>
+				</w>
+				<w n="3-17">
+					<text>tabellis</text>
+					<refs nrefs="3-7 3-8"/>
+				</w>
+				<w n="3-18">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-19">
+					<text>ne</text>
+					<refs nrefs="3-38"/>
+				</w>
+				<w n="3-20">
+					<text>legat</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-21">
+					<text>id</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-22">
+					<text>nemo</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-23">
+					<text>quam</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-24">
+					<text>meus</text>
+					<refs nrefs="3-37"/>
+				</w>
+				<w n="3-25">
+					<text>ante</text>
+					<refs nrefs="3-15"/>
+				</w>
+				<w n="3-26">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-27">
+					<text>velim</text>
+					<refs nrefs="3-3 3-4"/>
+				</w>
+				<w n="3-28">
+					<text>.</text>
+					<refs nrefs="3-2"/>
+				</w>
+				<w n="3-29">
+					<text>sed</text>
+					<refs nrefs="3-25"/>
+				</w>
+				<w n="3-30">
+					<text>peccasse</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-31">
+					<text>iuvat</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-32">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-33">
+					<text>vultus</text>
+					<refs nrefs="3-28"/>
+				</w>
+				<w n="3-34">
+					<text>componere</text>
+					<refs nrefs="3-16"/>
+				</w>
+				<w n="3-35">
+					<text>famae</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-36">
+					<text>taedet</text>
+					<refs nrefs="3-31"/>
+				</w>
+				<w n="3-37">
+					<text>:</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-38">
+					<text>cum</text>
+					<refs nrefs="3-33"/>
+				</w>
+				<w n="3-39">
+					<text>digno</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-40">
+					<text>digna</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-41">
+					<text>fuisse</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-42">
+					<text>ferar</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-43">
+					<text>.</text>
+					<refs nrefs="3-43"/>
+				</w>
+			</wds>
+			<wds lnum="L2">
+				<w n="3-1">
+					<text>i</text>
+					<refs nrefs="3-1"/>
+				</w>
+				<w n="3-2">
+					<text>hardly</text>
+					<refs nrefs="3-28"/>
+				</w>
+				<w n="3-3">
+					<text>want</text>
+					<refs nrefs="3-27"/>
+				</w>
+				<w n="3-4">
+					<text>to</text>
+					<refs nrefs="3-27"/>
+				</w>
+				<w n="3-5">
+					<text>give</text>
+					<refs nrefs="3-16"/>
+				</w>
+				<w n="3-6">
+					<text>this</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-7">
+					<text>letter</text>
+					<refs nrefs="3-17"/>
+				</w>
+				<w n="3-8">
+					<text>up</text>
+					<refs nrefs="3-17"/>
+				</w>
+				<w n="3-9">
+					<text>so</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-10">
+					<text>no</text>
+					<refs nrefs="3-15"/>
+				</w>
+				<w n="3-11">
+					<text>one</text>
+					<refs nrefs="3-15"/>
+				</w>
+				<w n="3-12">
+					<text>else</text>
+					<refs nrefs="3-15"/>
+				</w>
+				<w n="3-13">
+					<text>sees</text>
+					<refs nrefs="3-7"/>
+				</w>
+				<w n="3-14">
+					<text>it</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-15">
+					<text>before</text>
+					<refs nrefs="3-25"/>
+				</w>
+				<w n="3-16">
+					<text>he</text>
+					<refs nrefs="3-34"/>
+				</w>
+				<w n="3-17">
+					<text>does</text>
+					<refs nrefs="3-8"/>
+				</w>
+				<w n="3-18">
+					<text>.</text>
+					<refs nrefs="3-11"/>
+				</w>
+				<w n="3-19">
+					<text>i</text>
+					<refs nrefs="3-12"/>
+				</w>
+				<w n="3-20">
+					<text>'</text>
+					<refs nrefs="3-12"/>
+				</w>
+				<w n="3-21">
+					<text>m</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-22">
+					<text>glad</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-23">
+					<text>i</text>
+					<refs nrefs="3-13"/>
+				</w>
+				<w n="3-24">
+					<text>did</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-25">
+					<text>it</text>
+					<refs nrefs="3-29"/>
+				</w>
+				<w n="3-26">
+					<text>-</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-27">
+					<text>why</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-28">
+					<text>wear</text>
+					<refs nrefs="3-33"/>
+				</w>
+				<w n="3-29">
+					<text>a</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-30">
+					<text>prudish</text>
+					<refs nrefs="3-2"/>
+				</w>
+				<w n="3-31">
+					<text>mask</text>
+					<refs nrefs="3-36"/>
+				</w>
+				<w n="3-32">
+					<text>,</text>
+					<refs nrefs="3-4"/>
+				</w>
+				<w n="3-33">
+					<text>as</text>
+					<refs nrefs="3-38"/>
+				</w>
+				<w n="3-34">
+					<text>if</text>
+					<refs nrefs="3-6"/>
+				</w>
+				<w n="3-35">
+					<text>he</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-36">
+					<text>wasn</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-37">
+					<text>'</text>
+					<refs nrefs="3-24"/>
+				</w>
+				<w n="3-38">
+					<text>t</text>
+					<refs nrefs="3-19"/>
+				</w>
+				<w n="3-39">
+					<text>good</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-40">
+					<text>enough</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-41">
+					<text>for</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-42">
+					<text>me</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="3-43">
+					<text>!</text>
+					<refs nrefs="3-43"/>
+				</w>
+			</wds>
+		</sentence>
+		<sentence id="4" document_id="Perseus-text-1999.02.0070-sen=3">
+			<wds lnum="L1">
+				<w n="4-1">
+					<text>invisus</text>
+					<refs nrefs="4-1 4-2"/>
+				</w>
+				<w n="4-2">
+					<text>natalis</text>
+					<refs nrefs="4-3 4-4 4-5"/>
+				</w>
+				<w n="4-3">
+					<text>adest</text>
+					<refs nrefs="4-6"/>
+				</w>
+				<w n="4-4">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="4-5">
+					<text>qui</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="4-6">
+					<text>rure</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="4-7">
+					<text>molesto</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="4-8">
+					<text>et</text>
+					<refs nrefs="4-8"/>
+				</w>
+				<w n="4-9">
+					<text>sine</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="4-10">
+					<text>cerintho</text>
+					<refs nrefs="4-17 4-18 4-19"/>
+				</w>
+				<w n="4-11">
+					<text>tristis</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="4-12">
+					<text>agendus</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="4-13">
+					<text>erit</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="4-14">
+					<text>.</text>
+					<refs nrefs="4-20"/>
+				</w>
+			</wds>
+			<wds lnum="L2">
+				<w n="4-1">
+					<text>my</text>
+					<refs nrefs="4-1"/>
+				</w>
+				<w n="4-2">
+					<text>stupid</text>
+					<refs nrefs="4-1"/>
+				</w>
+				<w n="4-3">
+					<text>birthday</text>
+					<refs nrefs="4-2"/>
+				</w>
+				<w n="4-4">
+					<text>'</text>
+					<refs nrefs="4-2"/>
+				</w>
+				<w n="4-5">
+					<text>s</text>
+					<refs nrefs="4-2"/>
+				</w>
+				<w n="4-6">
+					<text>here</text>
+					<refs nrefs="4-3"/>
+				</w>
+				<w n="4-7">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="4-8">
+					<text>and</text>
+					<refs nrefs="4-8"/>
+				</w>
+				<w n="4-9">
+					<text>i</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="4-10">
+					<text>'</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="4-11">
+					<text>m</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="4-12">
+					<text>supposed</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="4-13">
+					<text>to</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="4-14">
+					<text>go</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="4-15">
+					<text>away</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="4-16">
+					<text>and</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="4-17">
+					<text>leave</text>
+					<refs nrefs="4-10"/>
+				</w>
+				<w n="4-18">
+					<text>cerinthus</text>
+					<refs nrefs="4-10"/>
+				</w>
+				<w n="4-19">
+					<text>here</text>
+					<refs nrefs="4-10"/>
+				</w>
+				<w n="4-20">
+					<text>.</text>
+					<refs nrefs="4-14"/>
+				</w>
+			</wds>
+		</sentence>
+		<sentence id="5" document_id="Perseus-text-1999.02.0070-sen=4">
+			<wds lnum="L1">
+				<w n="5-1">
+					<text>dulcius</text>
+					<refs nrefs="5-4 5-5"/>
+				</w>
+				<w n="5-2">
+					<text>urbe</text>
+					<refs nrefs="5-6 5-7"/>
+				</w>
+				<w n="5-3">
+					<text>quid</text>
+					<refs nrefs="5-1"/>
+				</w>
+				<w n="5-4">
+					<text>est</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="5-5">
+					<text>?</text>
+					<refs nrefs="5-8"/>
+				</w>
+			</wds>
+			<wds lnum="L2">
+				<w n="5-1">
+					<text>what</text>
+					<refs nrefs="5-3"/>
+				</w>
+				<w n="5-2">
+					<text>'</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="5-3">
+					<text>s</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="5-4">
+					<text>better</text>
+					<refs nrefs="5-1"/>
+				</w>
+				<w n="5-5">
+					<text>than</text>
+					<refs nrefs="5-1"/>
+				</w>
+				<w n="5-6">
+					<text>the</text>
+					<refs nrefs="5-2"/>
+				</w>
+				<w n="5-7">
+					<text>city</text>
+					<refs nrefs="5-2"/>
+				</w>
+				<w n="5-8">
+					<text>?</text>
+					<refs nrefs="5-5"/>
+				</w>
+			</wds>
+		</sentence>
+		<sentence id="6" document_id="Perseus-text-1999.02.0070-sen=5">
+			<wds lnum="L1">
+				<w n="6-1">
+					<text>an</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="6-2">
+					<text>villa</text>
+					<refs nrefs="6-3"/>
+				</w>
+				<w n="6-3">
+					<text>sit</text>
+					<refs nrefs="6-5"/>
+				</w>
+				<w n="6-4">
+					<text>apta</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="6-5">
+					<text>puellae</text>
+					<refs nrefs="6-16"/>
+				</w>
+				<w n="6-6">
+					<text>atque</text>
+					<refs nrefs="6-9"/>
+				</w>
+				<w n="6-7">
+					<text>arretino</text>
+					<refs nrefs="6-10 6-11 6-12 6-13"/>
+				</w>
+				<w n="6-8">
+					<text>frigidus</text>
+					<refs nrefs="6-8"/>
+				</w>
+				<w n="6-9">
+					<text>amnis</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="6-10">
+					<text>agro</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="6-11">
+					<text>?</text>
+					<refs nrefs=""/>
+				</w>
+			</wds>
+			<wds lnum="L2">
+				<w n="6-1">
+					<text>on</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="6-2">
+					<text>the</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="6-3">
+					<text>farm</text>
+					<refs nrefs="6-2"/>
+				</w>
+				<w n="6-4">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="6-5">
+					<text>it</text>
+					<refs nrefs="6-3"/>
+				</w>
+				<w n="6-6">
+					<text>'</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="6-7">
+					<text>s</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="6-8">
+					<text>cold</text>
+					<refs nrefs="6-8"/>
+				</w>
+				<w n="6-9">
+					<text>and</text>
+					<refs nrefs="6-6"/>
+				</w>
+				<w n="6-10">
+					<text>rustic</text>
+					<refs nrefs="6-7"/>
+				</w>
+				<w n="6-11">
+					<text>-</text>
+					<refs nrefs="6-7"/>
+				</w>
+				<w n="6-12">
+					<text>no</text>
+					<refs nrefs="6-7"/>
+				</w>
+				<w n="6-13">
+					<text>place</text>
+					<refs nrefs="6-7"/>
+				</w>
+				<w n="6-14">
+					<text>for</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="6-15">
+					<text>a</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="6-16">
+					<text>girl</text>
+					<refs nrefs="6-5"/>
+				</w>
+				<w n="6-17">
+					<text>.</text>
+					<refs nrefs=""/>
+				</w>
+			</wds>
+		</sentence>
+		<sentence id="7" document_id="Perseus-text-1999.02.0070-sen=6">
+			<wds lnum="L1">
+				<w n="7-1">
+					<text>iam</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="7-2">
+					<text>nimium</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="7-3">
+					<text>messalla</text>
+					<refs nrefs="7-1"/>
+				</w>
+				<w n="7-4">
+					<text>mei</text>
+					<refs nrefs="7-10"/>
+				</w>
+				<w n="7-5">
+					<text>studiose</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="7-6">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="7-7">
+					<text>quiescas</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="7-8">
+					<text>,</text>
+					<refs nrefs="7-11"/>
+				</w>
+				<w n="7-9">
+					<text>non</text>
+					<refs nrefs="7-12"/>
+				</w>
+				<w n="7-10">
+					<text>tempestivae</text>
+					<refs nrefs="7-22"/>
+				</w>
+				<w n="7-11">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="7-12">
+					<text>saeve</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="7-13">
+					<text>propinque</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="7-14">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="7-15">
+					<text>viae</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="7-16">
+					<text>!</text>
+					<refs nrefs="7-18"/>
+				</w>
+			</wds>
+			<wds lnum="L2">
+				<w n="7-1">
+					<text>messalla</text>
+					<refs nrefs="7-3"/>
+				</w>
+				<w n="7-2">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="7-3">
+					<text>uncle</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="7-4">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="7-5">
+					<text>you</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="7-6">
+					<text>'</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="7-7">
+					<text>re</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="7-8">
+					<text>thinking</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="7-9">
+					<text>of</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="7-10">
+					<text>me</text>
+					<refs nrefs="7-4"/>
+				</w>
+				<w n="7-11">
+					<text>,</text>
+					<refs nrefs="7-8"/>
+				</w>
+				<w n="7-12">
+					<text>but</text>
+					<refs nrefs="7-9"/>
+				</w>
+				<w n="7-13">
+					<text>stop</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="7-14">
+					<text>it</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="7-15">
+					<text>:</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="7-16">
+					<text>this</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="7-17">
+					<text>is</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="7-18">
+					<text>no</text>
+					<refs nrefs="7-16"/>
+				</w>
+				<w n="7-19">
+					<text>time</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="7-20">
+					<text>for</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="7-21">
+					<text>a</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="7-22">
+					<text>trip</text>
+					<refs nrefs="7-10"/>
+				</w>
+				<w n="7-23">
+					<text>.</text>
+					<refs nrefs=""/>
+				</w>
+			</wds>
+		</sentence>
+		<sentence id="8" document_id="Perseus-text-1999.02.0070:sen=a7">
+			<wds lnum="L1">
+				<w n="8-1">
+					<text>hic</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="8-2">
+					<text>animum</text>
+					<refs nrefs="8-10"/>
+				</w>
+				<w n="8-3">
+					<text>sensusque</text>
+					<refs nrefs="8-7"/>
+				</w>
+				<w n="8-4">
+					<text>meos</text>
+					<refs nrefs="8-2"/>
+				</w>
+				<w n="8-5">
+					<text>abducta</text>
+					<refs nrefs="8-3"/>
+				</w>
+				<w n="8-6">
+					<text>relinquo</text>
+					<refs nrefs="8-8"/>
+				</w>
+				<w n="8-7">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="8-8">
+					<text>arbitrio</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="8-9">
+					<text>quamvis</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="8-10">
+					<text>non</text>
+					<refs nrefs="8-6"/>
+				</w>
+				<w n="8-11">
+					<text>sinis</text>
+					<refs nrefs="8-26"/>
+				</w>
+				<w n="8-12">
+					<text>esse</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="8-13">
+					<text>meo</text>
+					<refs nrefs="8-9"/>
+				</w>
+				<w n="8-14">
+					<text>.</text>
+					<refs nrefs="8-27"/>
+				</w>
+			</wds>
+			<wds lnum="L2">
+				<w n="8-1">
+					<text>take</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="8-2">
+					<text>me</text>
+					<refs nrefs="8-4"/>
+				</w>
+				<w n="8-3">
+					<text>away</text>
+					<refs nrefs="8-5"/>
+				</w>
+				<w n="8-4">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="8-5">
+					<text>i</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="8-6">
+					<text>'</text>
+					<refs nrefs="8-10"/>
+				</w>
+				<w n="8-7">
+					<text>ll</text>
+					<refs nrefs="8-3"/>
+				</w>
+				<w n="8-8">
+					<text>leave</text>
+					<refs nrefs="8-6"/>
+				</w>
+				<w n="8-9">
+					<text>my</text>
+					<refs nrefs="8-13"/>
+				</w>
+				<w n="8-10">
+					<text>heart</text>
+					<refs nrefs="8-2"/>
+				</w>
+				<w n="8-11">
+					<text>and</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="8-12">
+					<text>mind</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="8-13">
+					<text>in</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="8-14">
+					<text>rome</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="8-15">
+					<text>:</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="8-16">
+					<text>what</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="8-17">
+					<text>good</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="8-18">
+					<text>'</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="8-19">
+					<text>s</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="8-20">
+					<text>free</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="8-21">
+					<text>will</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="8-22">
+					<text>?</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="8-23">
+					<text>you</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="8-24">
+					<text>make</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="8-25">
+					<text>the</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="8-26">
+					<text>rules</text>
+					<refs nrefs="8-11"/>
+				</w>
+				<w n="8-27">
+					<text>.</text>
+					<refs nrefs="8-14"/>
+				</w>
+			</wds>
+		</sentence>
+		<sentence id="9" document_id="Perseus-text-1999.02.0070:sen=a8">
+			<wds lnum="L1">
+				<w n="9-1">
+					<text>scis</text>
+					<refs nrefs="9-2"/>
+				</w>
+				<w n="9-2">
+					<text>iter</text>
+					<refs nrefs="9-5"/>
+				</w>
+				<w n="9-3">
+					<text>ex</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-4">
+					<text>animo</text>
+					<refs nrefs="9-11 9-12"/>
+				</w>
+				<w n="9-5">
+					<text>sublatum</text>
+					<refs nrefs="9-9 9-10"/>
+				</w>
+				<w n="9-6">
+					<text>triste</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-7">
+					<text>puellae</text>
+					<refs nrefs="9-6"/>
+				</w>
+				<w n="9-8">
+					<text>?</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-9">
+					<text>natali</text>
+					<refs nrefs="9-15 9-16"/>
+				</w>
+				<w n="9-10">
+					<text>romae</text>
+					<refs nrefs="9-22"/>
+				</w>
+				<w n="9-11">
+					<text>iam</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-12">
+					<text>licet</text>
+					<refs nrefs="9-18"/>
+				</w>
+				<w n="9-13">
+					<text>esse</text>
+					<refs nrefs="9-44"/>
+				</w>
+				<w n="9-14">
+					<text>suo</text>
+					<refs nrefs="9-19"/>
+				</w>
+				<w n="9-15">
+					<text>.</text>
+					<refs nrefs="9-23"/>
+				</w>
+				<w n="9-16">
+					<text>omnibus</text>
+					<refs nrefs="9-28"/>
+				</w>
+				<w n="9-17">
+					<text>ille</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-18">
+					<text>dies</text>
+					<refs nrefs="9-29"/>
+				</w>
+				<w n="9-19">
+					<text>nobis</text>
+					<refs nrefs="9-33"/>
+				</w>
+				<w n="9-20">
+					<text>natalis</text>
+					<refs nrefs="9-25 9-26 9-27"/>
+				</w>
+				<w n="9-21">
+					<text>agatur</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-22">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-23">
+					<text>qui</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-24">
+					<text>nec</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-25">
+					<text>opinanti</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-26">
+					<text>nunc</text>
+					<refs nrefs="9-36"/>
+				</w>
+				<w n="9-27">
+					<text>tibi</text>
+					<refs nrefs="9-43"/>
+				</w>
+				<w n="9-28">
+					<text>forte</text>
+					<refs nrefs="9-42"/>
+				</w>
+				<w n="9-29">
+					<text>venit</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-30">
+					<text>.</text>
+					<refs nrefs="9-47"/>
+				</w>
+			</wds>
+			<wds lnum="L2">
+				<w n="9-1">
+					<text>you</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-2">
+					<text>know</text>
+					<refs nrefs="9-1"/>
+				</w>
+				<w n="9-3">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-4">
+					<text>that</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-5">
+					<text>trip</text>
+					<refs nrefs="9-2"/>
+				</w>
+				<w n="9-6">
+					<text>'</text>
+					<refs nrefs="9-7"/>
+				</w>
+				<w n="9-7">
+					<text>s</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-8">
+					<text>been</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-9">
+					<text>taken</text>
+					<refs nrefs="9-5"/>
+				</w>
+				<w n="9-10">
+					<text>off</text>
+					<refs nrefs="9-5"/>
+				</w>
+				<w n="9-11">
+					<text>my</text>
+					<refs nrefs="9-4"/>
+				</w>
+				<w n="9-12">
+					<text>mind</text>
+					<refs nrefs="9-4"/>
+				</w>
+				<w n="9-13">
+					<text>:</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-14">
+					<text>your</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-15">
+					<text>girlfriend</text>
+					<refs nrefs="9-9"/>
+				</w>
+				<w n="9-16">
+					<text>gets</text>
+					<refs nrefs="9-9"/>
+				</w>
+				<w n="9-17">
+					<text>to</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-18">
+					<text>spend</text>
+					<refs nrefs="9-12"/>
+				</w>
+				<w n="9-19">
+					<text>her</text>
+					<refs nrefs="9-14"/>
+				</w>
+				<w n="9-20">
+					<text>day</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-21">
+					<text>in</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-22">
+					<text>rome</text>
+					<refs nrefs="9-10"/>
+				</w>
+				<w n="9-23">
+					<text>.</text>
+					<refs nrefs="9-15"/>
+				</w>
+				<w n="9-24">
+					<text>let</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-25">
+					<text>'</text>
+					<refs nrefs="9-20"/>
+				</w>
+				<w n="9-26">
+					<text>s</text>
+					<refs nrefs="9-20"/>
+				</w>
+				<w n="9-27">
+					<text>spend</text>
+					<refs nrefs="9-20"/>
+				</w>
+				<w n="9-28">
+					<text>the</text>
+					<refs nrefs="9-16"/>
+				</w>
+				<w n="9-29">
+					<text>day</text>
+					<refs nrefs="9-18"/>
+				</w>
+				<w n="9-30">
+					<text>together</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-31">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-32">
+					<text>as</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-33">
+					<text>we</text>
+					<refs nrefs="9-19"/>
+				</w>
+				<w n="9-34">
+					<text>hoped</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-35">
+					<text>:</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-36">
+					<text>we</text>
+					<refs nrefs="9-26"/>
+				</w>
+				<w n="9-37">
+					<text>'</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-38">
+					<text>ve</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-39">
+					<text>had</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-40">
+					<text>the</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-41">
+					<text>good</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-42">
+					<text>luck</text>
+					<refs nrefs="9-28"/>
+				</w>
+				<w n="9-43">
+					<text>you</text>
+					<refs nrefs="9-27"/>
+				</w>
+				<w n="9-44">
+					<text>were</text>
+					<refs nrefs="9-13"/>
+				</w>
+				<w n="9-45">
+					<text>waiting</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-46">
+					<text>for</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="9-47">
+					<text>.</text>
+					<refs nrefs="9-30"/>
+				</w>
+			</wds>
+		</sentence>
+		<sentence id="10" document_id="Perseus-text-1999.02.0070-sen=9">
+			<wds lnum="L1">
+				<w n="10-1">
+					<text>gratum</text>
+					<refs nrefs="10-4"/>
+				</w>
+				<w n="10-2">
+					<text>est</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="10-3">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="10-4">
+					<text>securus</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="10-5">
+					<text>multum</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="10-6">
+					<text>quod</text>
+					<refs nrefs="10-12"/>
+				</w>
+				<w n="10-7">
+					<text>iam</text>
+					<refs nrefs="10-16"/>
+				</w>
+				<w n="10-8">
+					<text>tibi</text>
+					<refs nrefs="10-5"/>
+				</w>
+				<w n="10-9">
+					<text>de</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="10-10">
+					<text>me</text>
+					<refs nrefs="10-1"/>
+				</w>
+				<w n="10-11">
+					<text>permittis</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="10-12">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="10-13">
+					<text>subito</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="10-14">
+					<text>ne</text>
+					<refs nrefs="10-2"/>
+				</w>
+				<w n="10-15">
+					<text>male</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="10-16">
+					<text>inepta</text>
+					<refs nrefs="10-9 10-10 10-11"/>
+				</w>
+				<w n="10-17">
+					<text>cadam</text>
+					<refs nrefs="10-20"/>
+				</w>
+				<w n="10-18">
+					<text>.</text>
+					<refs nrefs="10-24"/>
+				</w>
+			</wds>
+			<wds lnum="L2">
+				<w n="10-1">
+					<text>i</text>
+					<refs nrefs="10-10"/>
+				</w>
+				<w n="10-2">
+					<text>should</text>
+					<refs nrefs="10-14"/>
+				</w>
+				<w n="10-3">
+					<text>be</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="10-4">
+					<text>glad</text>
+					<refs nrefs="10-1"/>
+				</w>
+				<w n="10-5">
+					<text>you</text>
+					<refs nrefs="10-8"/>
+				</w>
+				<w n="10-6">
+					<text>think</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="10-7">
+					<text>that</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="10-8">
+					<text>you</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="10-9">
+					<text>can</text>
+					<refs nrefs="10-16"/>
+				</w>
+				<w n="10-10">
+					<text>cheat</text>
+					<refs nrefs="10-16"/>
+				</w>
+				<w n="10-11">
+					<text>:</text>
+					<refs nrefs="10-16"/>
+				</w>
+				<w n="10-12">
+					<text>what</text>
+					<refs nrefs="10-6"/>
+				</w>
+				<w n="10-13">
+					<text>a</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="10-14">
+					<text>fool</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="10-15">
+					<text>i</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="10-16">
+					<text>'</text>
+					<refs nrefs="10-7"/>
+				</w>
+				<w n="10-17">
+					<text>d</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="10-18">
+					<text>be</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="10-19">
+					<text>to</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="10-20">
+					<text>fall</text>
+					<refs nrefs="10-17"/>
+				</w>
+				<w n="10-21">
+					<text>into</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="10-22">
+					<text>your</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="10-23">
+					<text>arms</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="10-24">
+					<text>.</text>
+					<refs nrefs="10-18"/>
+				</w>
+			</wds>
+		</sentence>
+		<sentence id="11" document_id="Perseus-text-1999.02.0070-sen=10">
+			<wds lnum="L1">
+				<w n="11-1">
+					<text>sit</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="11-2">
+					<text>tibi</text>
+					<refs nrefs="11-4"/>
+				</w>
+				<w n="11-3">
+					<text>cura</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="11-4">
+					<text>togae</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="11-5">
+					<text>potior</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="11-6">
+					<text>pressumque</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="11-7">
+					<text>quasillo</text>
+					<refs nrefs="11-14"/>
+				</w>
+				<w n="11-8">
+					<text>scortum</text>
+					<refs nrefs="11-10"/>
+				</w>
+				<w n="11-9">
+					<text>quam</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="11-10">
+					<text>servi</text>
+					<refs nrefs="11-17"/>
+				</w>
+				<w n="11-11">
+					<text>filia</text>
+					<refs nrefs="11-15"/>
+				</w>
+				<w n="11-12">
+					<text>sulpicia</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="11-13">
+					<text>:</text>
+					<refs nrefs="11-18"/>
+				</w>
+			</wds>
+			<wds lnum="L2">
+				<w n="11-1">
+					<text>go</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="11-2">
+					<text>:</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="11-3">
+					<text>court</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="11-4">
+					<text>your</text>
+					<refs nrefs="11-2"/>
+				</w>
+				<w n="11-5">
+					<text>working</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="11-6">
+					<text>girl</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="11-7">
+					<text>as</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="11-8">
+					<text>she</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="11-9">
+					<text>spins</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="11-10">
+					<text>her</text>
+					<refs nrefs="11-8"/>
+				</w>
+				<w n="11-11">
+					<text>wool</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="11-12">
+					<text>instead</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="11-13">
+					<text>of</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="11-14">
+					<text>sulpicia</text>
+					<refs nrefs="11-7"/>
+				</w>
+				<w n="11-15">
+					<text>daughter</text>
+					<refs nrefs="11-11"/>
+				</w>
+				<w n="11-16">
+					<text>of</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="11-17">
+					<text>servius</text>
+					<refs nrefs="11-10"/>
+				</w>
+				<w n="11-18">
+					<text>.</text>
+					<refs nrefs="11-13"/>
+				</w>
+			</wds>
+		</sentence>
+		<sentence id="12" document_id="Perseus-text-1999.02.0070-sen=11">
+			<wds lnum="L1">
+				<w n="12-1">
+					<text>solliciti</text>
+					<refs nrefs="12-4 12-5"/>
+				</w>
+				<w n="12-2">
+					<text>sunt</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="12-3">
+					<text>pro</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="12-4">
+					<text>nobis</text>
+					<refs nrefs="12-13"/>
+				</w>
+				<w n="12-5">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="12-6">
+					<text>quibus</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="12-7">
+					<text>illa</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="12-8">
+					<text>dolori</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="12-9">
+					<text>est</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="12-10">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="12-11">
+					<text>ne</text>
+					<refs nrefs="12-6"/>
+				</w>
+				<w n="12-12">
+					<text>cedam</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="12-13">
+					<text>ignoto</text>
+					<refs nrefs="12-14"/>
+				</w>
+				<w n="12-14">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="12-15">
+					<text>maxima</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="12-16">
+					<text>causa</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="12-17">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="12-18">
+					<text>toro</text>
+					<refs nrefs="12-16 12-17"/>
+				</w>
+				<w n="12-19">
+					<text>.</text>
+					<refs nrefs="12-18"/>
+				</w>
+			</wds>
+			<wds lnum="L2">
+				<w n="12-1">
+					<text>my</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="12-2">
+					<text>family</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="12-3">
+					<text>are</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="12-4">
+					<text>concerned</text>
+					<refs nrefs="12-1"/>
+				</w>
+				<w n="12-5">
+					<text>i</text>
+					<refs nrefs="12-1"/>
+				</w>
+				<w n="12-6">
+					<text>might</text>
+					<refs nrefs="12-11"/>
+				</w>
+				<w n="12-7">
+					<text>lose</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="12-8">
+					<text>out</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="12-9">
+					<text>to</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="12-10">
+					<text>the</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="12-11">
+					<text>affections</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="12-12">
+					<text>of</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="12-13">
+					<text>an</text>
+					<refs nrefs="12-4"/>
+				</w>
+				<w n="12-14">
+					<text>unknown</text>
+					<refs nrefs="12-13"/>
+				</w>
+				<w n="12-15">
+					<text>'</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="12-16">
+					<text>s</text>
+					<refs nrefs="12-18"/>
+				</w>
+				<w n="12-17">
+					<text>bed</text>
+					<refs nrefs="12-18"/>
+				</w>
+				<w n="12-18">
+					<text>.</text>
+					<refs nrefs="12-19"/>
+				</w>
+			</wds>
+		</sentence>
+		<sentence id="13" document_id="Perseus-text-1999.02.0070:sen=a13">
+			<wds lnum="L1">
+				<w n="13-1">
+					<text>estne</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="13-2">
+					<text>tibi</text>
+					<refs nrefs="13-3"/>
+				</w>
+				<w n="13-3">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="13-4">
+					<text>cerinthe</text>
+					<refs nrefs="13-1"/>
+				</w>
+				<w n="13-5">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="13-6">
+					<text>tuae</text>
+					<refs nrefs="13-4"/>
+				</w>
+				<w n="13-7">
+					<text>pia</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="13-8">
+					<text>cura</text>
+					<refs nrefs="13-5"/>
+				</w>
+				<w n="13-9">
+					<text>puellae</text>
+					<refs nrefs="13-34 13-35"/>
+				</w>
+				<w n="13-10">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="13-11">
+					<text>quod</text>
+					<refs nrefs="13-36"/>
+				</w>
+				<w n="13-12">
+					<text>mea</text>
+					<refs nrefs="13-11"/>
+				</w>
+				<w n="13-13">
+					<text>nunc</text>
+					<refs nrefs="13-13"/>
+				</w>
+				<w n="13-14">
+					<text>vexat</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="13-15">
+					<text>corpora</text>
+					<refs nrefs="13-12"/>
+				</w>
+				<w n="13-16">
+					<text>fessa</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="13-17">
+					<text>calor</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="13-18">
+					<text>?</text>
+					<refs nrefs="13-18"/>
+				</w>
+				<w n="13-19">
+					<text>a</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="13-20">
+					<text>!</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="13-21">
+					<text>ego</text>
+					<refs nrefs="13-19"/>
+				</w>
+				<w n="13-22">
+					<text>non</text>
+					<refs nrefs="13-20"/>
+				</w>
+				<w n="13-23">
+					<text>aliter</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="13-24">
+					<text>tristes</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="13-25">
+					<text>evincere</text>
+					<refs nrefs="13-27 13-28"/>
+				</w>
+				<w n="13-26">
+					<text>morbos</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="13-27">
+					<text>optarim</text>
+					<refs nrefs="13-21"/>
+				</w>
+				<w n="13-28">
+					<text>,</text>
+					<refs nrefs="13-25"/>
+				</w>
+				<w n="13-29">
+					<text>quam</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="13-30">
+					<text>te</text>
+					<refs nrefs="13-37"/>
+				</w>
+				<w n="13-31">
+					<text>si</text>
+					<refs nrefs="13-29"/>
+				</w>
+				<w n="13-32">
+					<text>quoque</text>
+					<refs nrefs="13-39"/>
+				</w>
+				<w n="13-33">
+					<text>velle</text>
+					<refs nrefs="13-38"/>
+				</w>
+				<w n="13-34">
+					<text>putem</text>
+					<refs nrefs="13-30 13-31 13-32 13-33"/>
+				</w>
+				<w n="13-35">
+					<text>.</text>
+					<refs nrefs="13-40"/>
+				</w>
+			</wds>
+			<wds lnum="L2">
+				<w n="13-1">
+					<text>cerinthus</text>
+					<refs nrefs="13-4"/>
+				</w>
+				<w n="13-2">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="13-3">
+					<text>do</text>
+					<refs nrefs="13-2"/>
+				</w>
+				<w n="13-4">
+					<text>you</text>
+					<refs nrefs="13-6"/>
+				</w>
+				<w n="13-5">
+					<text>care</text>
+					<refs nrefs="13-8"/>
+				</w>
+				<w n="13-6">
+					<text>that</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="13-7">
+					<text>i</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="13-8">
+					<text>am</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="13-9">
+					<text>sick</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="13-10">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="13-11">
+					<text>my</text>
+					<refs nrefs="13-12"/>
+				</w>
+				<w n="13-12">
+					<text>body</text>
+					<refs nrefs="13-15"/>
+				</w>
+				<w n="13-13">
+					<text>wracked</text>
+					<refs nrefs="13-13"/>
+				</w>
+				<w n="13-14">
+					<text>with</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="13-15">
+					<text>fever</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="13-16">
+					<text>and</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="13-17">
+					<text>fatigue</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="13-18">
+					<text>?</text>
+					<refs nrefs="13-18"/>
+				</w>
+				<w n="13-19">
+					<text>i</text>
+					<refs nrefs="13-21"/>
+				</w>
+				<w n="13-20">
+					<text>cannot</text>
+					<refs nrefs="13-22"/>
+				</w>
+				<w n="13-21">
+					<text>hope</text>
+					<refs nrefs="13-27"/>
+				</w>
+				<w n="13-22">
+					<text>that</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="13-23">
+					<text>i</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="13-24">
+					<text>'</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="13-25">
+					<text>ll</text>
+					<refs nrefs="13-28"/>
+				</w>
+				<w n="13-26">
+					<text>be</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="13-27">
+					<text>well</text>
+					<refs nrefs="13-25"/>
+				</w>
+				<w n="13-28">
+					<text>again</text>
+					<refs nrefs="13-25"/>
+				</w>
+				<w n="13-29">
+					<text>unless</text>
+					<refs nrefs="13-31"/>
+				</w>
+				<w n="13-30">
+					<text>i</text>
+					<refs nrefs="13-34"/>
+				</w>
+				<w n="13-31">
+					<text>think</text>
+					<refs nrefs="13-34"/>
+				</w>
+				<w n="13-32">
+					<text>that</text>
+					<refs nrefs="13-34"/>
+				</w>
+				<w n="13-33">
+					<text>that</text>
+					<refs nrefs="13-34"/>
+				</w>
+				<w n="13-34">
+					<text>'</text>
+					<refs nrefs="13-9"/>
+				</w>
+				<w n="13-35">
+					<text>s</text>
+					<refs nrefs="13-9"/>
+				</w>
+				<w n="13-36">
+					<text>what</text>
+					<refs nrefs="13-11"/>
+				</w>
+				<w n="13-37">
+					<text>you</text>
+					<refs nrefs="13-30"/>
+				</w>
+				<w n="13-38">
+					<text>want</text>
+					<refs nrefs="13-33"/>
+				</w>
+				<w n="13-39">
+					<text>too</text>
+					<refs nrefs="13-32"/>
+				</w>
+				<w n="13-40">
+					<text>.</text>
+					<refs nrefs="13-35"/>
+				</w>
+			</wds>
+		</sentence>
+		<sentence id="14" document_id="Perseus-text-1999.02.0070-sen=13">
+			<wds lnum="L1">
+				<w n="14-1">
+					<text>at</text>
+					<refs nrefs="14-1"/>
+				</w>
+				<w n="14-2">
+					<text>mihi</text>
+					<refs nrefs="14-16"/>
+				</w>
+				<w n="14-3">
+					<text>quid</text>
+					<refs nrefs="14-11"/>
+				</w>
+				<w n="14-4">
+					<text>prosit</text>
+					<refs nrefs="14-12"/>
+				</w>
+				<w n="14-5">
+					<text>morbos</text>
+					<refs nrefs="14-4"/>
+				</w>
+				<w n="14-6">
+					<text>evincere</text>
+					<refs nrefs="14-7 14-8"/>
+				</w>
+				<w n="14-7">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="14-8">
+					<text>si</text>
+					<refs nrefs="14-2"/>
+				</w>
+				<w n="14-9">
+					<text>tu</text>
+					<refs nrefs="14-9"/>
+				</w>
+				<w n="14-10">
+					<text>nostra</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="14-11">
+					<text>potes</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="14-12">
+					<text>lento</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="14-13">
+					<text>pectore</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="14-14">
+					<text>ferre</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="14-15">
+					<text>mala</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="14-16">
+					<text>?</text>
+					<refs nrefs="14-21"/>
+				</w>
+			</wds>
+			<wds lnum="L2">
+				<w n="14-1">
+					<text>but</text>
+					<refs nrefs="14-1"/>
+				</w>
+				<w n="14-2">
+					<text>if</text>
+					<refs nrefs="14-8"/>
+				</w>
+				<w n="14-3">
+					<text>my</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="14-4">
+					<text>sickness</text>
+					<refs nrefs="14-5"/>
+				</w>
+				<w n="14-5">
+					<text>doesn</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="14-6">
+					<text>'</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="14-7">
+					<text>t</text>
+					<refs nrefs="14-6"/>
+				</w>
+				<w n="14-8">
+					<text>worry</text>
+					<refs nrefs="14-6"/>
+				</w>
+				<w n="14-9">
+					<text>you</text>
+					<refs nrefs="14-9"/>
+				</w>
+				<w n="14-10">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="14-11">
+					<text>what</text>
+					<refs nrefs="14-3"/>
+				</w>
+				<w n="14-12">
+					<text>good</text>
+					<refs nrefs="14-4"/>
+				</w>
+				<w n="14-13">
+					<text>is</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="14-14">
+					<text>it</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="14-15">
+					<text>to</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="14-16">
+					<text>me</text>
+					<refs nrefs="14-2"/>
+				</w>
+				<w n="14-17">
+					<text>to</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="14-18">
+					<text>be</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="14-19">
+					<text>well</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="14-20">
+					<text>again</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="14-21">
+					<text>?</text>
+					<refs nrefs="14-16"/>
+				</w>
+			</wds>
+		</sentence>
+		<sentence id="15" document_id="Perseus-text-1999.02.0070:sen=p14">
+			<wds lnum="L1">
+				<w n="15-1">
+					<text>ne</text>
+					<refs nrefs="15-6"/>
+				</w>
+				<w n="15-2">
+					<text>tibi</text>
+					<refs nrefs="15-5"/>
+				</w>
+				<w n="15-3">
+					<text>sim</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-4">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-5">
+					<text>mea</text>
+					<refs nrefs="15-1"/>
+				</w>
+				<w n="15-6">
+					<text>lux</text>
+					<refs nrefs="15-2"/>
+				</w>
+				<w n="15-7">
+					<text>,</text>
+					<refs nrefs="15-3"/>
+				</w>
+				<w n="15-8">
+					<text>aeque</text>
+					<refs nrefs="15-12"/>
+				</w>
+				<w n="15-9">
+					<text>iam</text>
+					<refs nrefs="15-13"/>
+				</w>
+				<w n="15-10">
+					<text>fervida</text>
+					<refs nrefs="15-28 15-29"/>
+				</w>
+				<w n="15-11">
+					<text>cura</text>
+					<refs nrefs="15-27"/>
+				</w>
+				<w n="15-12">
+					<text>ac</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-13">
+					<text>videor</text>
+					<refs nrefs="15-14 15-15"/>
+				</w>
+				<w n="15-14">
+					<text>paucos</text>
+					<refs nrefs="15-17 15-18"/>
+				</w>
+				<w n="15-15">
+					<text>ante</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-16">
+					<text>fuisse</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-17">
+					<text>dies</text>
+					<refs nrefs="15-19"/>
+				</w>
+				<w n="15-18">
+					<text>,</text>
+					<refs nrefs="15-21"/>
+				</w>
+				<w n="15-19">
+					<text>si</text>
+					<refs nrefs="15-22"/>
+				</w>
+				<w n="15-20">
+					<text>quicquam</text>
+					<refs nrefs="15-9"/>
+				</w>
+				<w n="15-21">
+					<text>tota</text>
+					<refs nrefs="15-11"/>
+				</w>
+				<w n="15-22">
+					<text>commisi</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-23">
+					<text>stulta</text>
+					<refs nrefs="15-33"/>
+				</w>
+				<w n="15-24">
+					<text>iuventa</text>
+					<refs nrefs="15-7"/>
+				</w>
+				<w n="15-25">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-26">
+					<text>cuius</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-27">
+					<text>me</text>
+					<refs nrefs="15-8"/>
+				</w>
+				<w n="15-28">
+					<text>fatear</text>
+					<refs nrefs="15-23"/>
+				</w>
+				<w n="15-29">
+					<text>paenituisse</text>
+					<refs nrefs="15-25"/>
+				</w>
+				<w n="15-30">
+					<text>magis</text>
+					<refs nrefs="15-10"/>
+				</w>
+				<w n="15-31">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-32">
+					<text>hesterna</text>
+					<refs nrefs="15-37"/>
+				</w>
+				<w n="15-33">
+					<text>quam</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-34">
+					<text>te</text>
+					<refs nrefs="15-42"/>
+				</w>
+				<w n="15-35">
+					<text>solum</text>
+					<refs nrefs="15-44"/>
+				</w>
+				<w n="15-36">
+					<text>quod</text>
+					<refs nrefs="15-45"/>
+				</w>
+				<w n="15-37">
+					<text>nocte</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-38">
+					<text>reliqui</text>
+					<refs nrefs="15-41"/>
+				</w>
+				<w n="15-39">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-40">
+					<text>ardorem</text>
+					<refs nrefs="15-47"/>
+				</w>
+				<w n="15-41">
+					<text>cupiens</text>
+					<refs nrefs="15-50 15-51"/>
+				</w>
+				<w n="15-42">
+					<text>dissimulare</text>
+					<refs nrefs="15-52"/>
+				</w>
+				<w n="15-43">
+					<text>meum</text>
+					<refs nrefs="15-53"/>
+				</w>
+				<w n="15-44">
+					<text>.</text>
+					<refs nrefs="15-55"/>
+				</w>
+			</wds>
+			<wds lnum="L2">
+				<w n="15-1">
+					<text>my</text>
+					<refs nrefs="15-5"/>
+				</w>
+				<w n="15-2">
+					<text>light</text>
+					<refs nrefs="15-6"/>
+				</w>
+				<w n="15-3">
+					<text>,</text>
+					<refs nrefs="15-7"/>
+				</w>
+				<w n="15-4">
+					<text>may</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-5">
+					<text>you</text>
+					<refs nrefs="15-2"/>
+				</w>
+				<w n="15-6">
+					<text>not</text>
+					<refs nrefs="15-1"/>
+				</w>
+				<w n="15-7">
+					<text>love</text>
+					<refs nrefs="15-24"/>
+				</w>
+				<w n="15-8">
+					<text>me</text>
+					<refs nrefs="15-27"/>
+				</w>
+				<w n="15-9">
+					<text>any</text>
+					<refs nrefs="15-20"/>
+				</w>
+				<w n="15-10">
+					<text>more</text>
+					<refs nrefs="15-30"/>
+				</w>
+				<w n="15-11">
+					<text>the</text>
+					<refs nrefs="15-21"/>
+				</w>
+				<w n="15-12">
+					<text>way</text>
+					<refs nrefs="15-8"/>
+				</w>
+				<w n="15-13">
+					<text>i</text>
+					<refs nrefs="15-9"/>
+				</w>
+				<w n="15-14">
+					<text>think</text>
+					<refs nrefs="15-13"/>
+				</w>
+				<w n="15-15">
+					<text>you</text>
+					<refs nrefs="15-13"/>
+				</w>
+				<w n="15-16">
+					<text>did</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-17">
+					<text>a</text>
+					<refs nrefs="15-14"/>
+				</w>
+				<w n="15-18">
+					<text>few</text>
+					<refs nrefs="15-14"/>
+				</w>
+				<w n="15-19">
+					<text>days</text>
+					<refs nrefs="15-17"/>
+				</w>
+				<w n="15-20">
+					<text>since</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-21">
+					<text>,</text>
+					<refs nrefs="15-18"/>
+				</w>
+				<w n="15-22">
+					<text>if</text>
+					<refs nrefs="15-19"/>
+				</w>
+				<w n="15-23">
+					<text>i</text>
+					<refs nrefs="15-28"/>
+				</w>
+				<w n="15-24">
+					<text>have</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-25">
+					<text>ever</text>
+					<refs nrefs="15-29"/>
+				</w>
+				<w n="15-26">
+					<text>in</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-27">
+					<text>my</text>
+					<refs nrefs="15-11"/>
+				</w>
+				<w n="15-28">
+					<text>youthful</text>
+					<refs nrefs="15-10"/>
+				</w>
+				<w n="15-29">
+					<text>life</text>
+					<refs nrefs="15-10"/>
+				</w>
+				<w n="15-30">
+					<text>done</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-31">
+					<text>anything</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-32">
+					<text>as</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-33">
+					<text>stupid</text>
+					<refs nrefs="15-23"/>
+				</w>
+				<w n="15-34">
+					<text>as</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-35">
+					<text>i</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-36">
+					<text>did</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-37">
+					<text>yesterday</text>
+					<refs nrefs="15-32"/>
+				</w>
+				<w n="15-38">
+					<text>,</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-39">
+					<text>when</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-40">
+					<text>i</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-41">
+					<text>left</text>
+					<refs nrefs="15-38"/>
+				</w>
+				<w n="15-42">
+					<text>you</text>
+					<refs nrefs="15-34"/>
+				</w>
+				<w n="15-43">
+					<text>all</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-44">
+					<text>alone</text>
+					<refs nrefs="15-35"/>
+				</w>
+				<w n="15-45">
+					<text>because</text>
+					<refs nrefs="15-36"/>
+				</w>
+				<w n="15-46">
+					<text>i</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-47">
+					<text>didn</text>
+					<refs nrefs="15-40"/>
+				</w>
+				<w n="15-48">
+					<text>'</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-49">
+					<text>t</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-50">
+					<text>want</text>
+					<refs nrefs="15-41"/>
+				</w>
+				<w n="15-51">
+					<text>to</text>
+					<refs nrefs="15-41"/>
+				</w>
+				<w n="15-52">
+					<text>show</text>
+					<refs nrefs="15-42"/>
+				</w>
+				<w n="15-53">
+					<text>my</text>
+					<refs nrefs="15-43"/>
+				</w>
+				<w n="15-54">
+					<text>love</text>
+					<refs nrefs=""/>
+				</w>
+				<w n="15-55">
+					<text>.</text>
+					<refs nrefs="15-44"/>
+				</w>
+			</wds>
+		</sentence>
+</aligned-text>
