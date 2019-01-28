@@ -3,7 +3,8 @@
 This repository provided a home for orphaned data previously found on 
 http://nlp.perseus.tufts.edu/lexicon/ (also http://static.perseus.tufts.edu/lexicon/)
 
-Note that active management of this phase of the project ceased in 2011. 
+Note that active management of this phase of the project ceased in 2011. A new phase was started at:
+http://www.dynamiclexicon.com
 
 Treebank work may be found here [The Ancient Greek and Latin Dependency Treebank](https://perseusdl.github.io/treebank_data/) with links to https://github.com/PerseusDL/treebank_data.
 
