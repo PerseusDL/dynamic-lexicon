@@ -3,7 +3,9 @@
 This repository provided a home for orphaned data previously found on 
 http://nlp.perseus.tufts.edu/lexicon/ (also http://static.perseus.tufts.edu/lexicon/)
 
-Note that active management of this phase of the project ceased in 2011.
+Note that active management of this phase of the project ceased in 2011. 
+
+Treebank work continued here, on [The Ancient Greek and Latin Dependency Treebank](https://perseusdl.github.io/treebank_data/) with links to https://github.com/PerseusDL/treebank_data
 
 **General Information**   
 The Dynamic Lexicon is an NEH-funded project to automatically create bilingual dictionaries (Greek/English and Latin/English) using parallel texts - source texts in Greek or Latin aligned with their English translations - along with the syntactic data encoded in treebanks. From these raw materials, we can construct a lexical entry that illustrates how a word is used not simply in all of Greek or Latin literature, but in any subset of that collection (e.g., Greek drama or the works of Cicero).
