@@ -1,7 +1,7 @@
 # dynamic-lexicon
 
 This repository provided a home for orphaned data previously found on 
-http://nlp.perseus.tufts.edu/lexicon/ (also static.perseus.tufts.edu/lexicon/)
+http://nlp.perseus.tufts.edu/lexicon/ (also http://static.perseus.tufts.edu/lexicon/)
 
 Note that active management of this phase of the project ceased in 2011.
 
