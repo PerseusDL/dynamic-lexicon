@@ -16,7 +16,7 @@ The published form of the Dynamic Lexicon includes automatically generated lexic
 <ul>
 <li><b><a href="https://github.com/PerseusDL/dynamic-lexicon/tree/master/data/dynamic-lex-entries">Dynamic Lexicon entries</a></b>. XML files for all automatically generated lexical entries. [<a href="https://github.com/PerseusDL/dynamic-lexicon/blob/master/data/dynamic-lex-entries/greeklexicon.tar.gz">Greek</a>] [<a href="https://github.com/PerseusDL/dynamic-lexicon/blob/master/data/dynamic-lex-entries/latinlexicon.tar.gz">Latin</a>]</li>
 <li><b><a href="https://github.com/PerseusDL/dynamic-lexicon/tree/master/data/auto-aligned-parallel-txts">Automatically word-aligned parallel texts</a></b>. [<a href="https://github.com/PerseusDL/dynamic-lexicon/tree/master/data/auto-aligned-parallel-txts/greekParallelText">Greek</a>] [<a href="https://github.com/PerseusDL/dynamic-lexicon/tree/master/data/auto-aligned-parallel-txts/latinParallelText">Latin</a>] </li>
-<li><b>Automatically aligned, tagged and parsed source texts</b>. [<a href="http://nlp.perseus.tufts.edu/lexicon/greek/greekRawData.txt.gz">Greek</a>] [<a href="http://nlp.perseus.tufts.edu/lexicon/latin/latinRawData.txt.gz">Latin</a>] </li>
+<li><b>Automatically aligned, tagged and parsed source texts</b>. (via Dropbox) [<a href="https://www.dropbox.com/s/konyotytechcsu6/greekRawData.txt.gz?dl=0">Greek</a>] [<a href="https://www.dropbox.com/s/711j9i5k54wqzuw/latinRawData.txt.gz?dl=0">Latin</a>] </li>
 <li><b>Treebank data</b>. [<a href="https://perseusdl.github.io/treebank_data/">Greek and Latin</a>] </li>
 </ul>
 
