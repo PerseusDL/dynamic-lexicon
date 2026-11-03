@@ -26,7 +26,7 @@ Bamman, David, and Gregory Crane, "Measuring Historical Word Sense Variation," i
 
 Bamman, David, and Gregory Crane, "The Ancient Greek and Latin Dependency Treebanks," in: Caroline Sporleder, Antal van den Bosch and Kalliopi Zervanou (eds.), <em>Language Technology for Cultural Heritage</em> (Springer, 2011). [<a href="http://nlp.perseus.tufts.edu/docs/latech.pdf">pdf</a>]
 
-Bamman, David, and Gregory Crane (2009), "Computational Linguistics and Classical Lexicography," <em>Digital Humanities Quarterly</em> 3.1 [<a href="http://www.digitalhumanities.org/dhq/vol/003/1/000033.html">html</a>]
+Bamman, David, and Gregory Crane (2009), "Computational Linguistics and Classical Lexicography," <em>Digital Humanities Quarterly</em> 3.1 [<a href="https://doi.org/10.63744/s97afau5nrmw">html</a>]
 
 Bamman, David, and Gregory Crane (2008), "Building a Dynamic Lexicon
 from a Digital Library," <em>Proceedings of the 8th ACM/IEEE-CS Joint
